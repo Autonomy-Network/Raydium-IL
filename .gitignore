@@ -4,3 +4,4 @@
 /target/
 /test-ledger
 **/*.rs.bk
+/programs/impermenant_loss_stop_loss/target/

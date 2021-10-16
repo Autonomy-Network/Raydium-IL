@@ -2,8 +2,6 @@
 
 impermenant_loss_stop_loss on Solana blockchain with Raydium integration
 
-**Devnet program id**: 2QGo9WwyXbFzyCnrob9XuLbEwqxmNhn4a58w4BxZBer5
-
 ## How to run
 
 ### Program
