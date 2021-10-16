@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/build/typenum-102ce2f557111771/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/build/typenum-102ce2f557111771/out/op.rs

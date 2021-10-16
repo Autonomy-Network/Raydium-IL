@@ -1,0 +1,10 @@
+/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/deps/borsh-ce797aa30f337b5c.rmeta: /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs
+
+/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/deps/borsh-ce797aa30f337b5c.d: /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs
+
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/lib.rs:
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/mod.rs:
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/de/hint.rs:
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema.rs:
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/schema_helpers.rs:
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.2/src/ser/mod.rs:

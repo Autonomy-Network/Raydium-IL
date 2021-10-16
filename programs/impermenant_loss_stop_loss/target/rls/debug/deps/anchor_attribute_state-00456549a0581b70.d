@@ -1,0 +1,5 @@
+/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/deps/libanchor_attribute_state-00456549a0581b70.dylib: /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-attribute-state-0.7.0/src/lib.rs
+
+/Users/nolanjacobsonpersonal/solana-hack-oasis-finance/anchor/programs/new-vault/target/rls/debug/deps/anchor_attribute_state-00456549a0581b70.d: /Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-attribute-state-0.7.0/src/lib.rs
+
+/Users/nolanjacobsonpersonal/.cargo/registry/src/github.com-1ecc6299db9ec823/anchor-attribute-state-0.7.0/src/lib.rs:
